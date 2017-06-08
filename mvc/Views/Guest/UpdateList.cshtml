@@ -5,6 +5,7 @@
 @{
     ViewData["Title"] = "Guest";
    
+    
 }
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
@@ -108,38 +109,34 @@
 </div>
 
 
+<form asp-action="GuestConfirm" asp-controller="Guest"  method="POST"  role="form">
+    
+
 <br><br><br>
 
 <h1>This is the Guest List for your party</h1><br><br>
 
+
 <table border style="width:50%">
-    <tr>
+<tr>
     <th>Guest Name</th>
     <th>Email</th> 
     <th>Invitation Status</th>
   </tr>
-
-@foreach(Guest g in Model) { 
+@foreach(Guest m in Model) {
+  
   <tr>
-    <td>@g.nameGuest</td>
-    <td>@g.email</td> 
-    <td>Open</td>
+    <td>@m.nameGuest</td>
+    <td>@m.email</td> 
+    <td>@m.status</td>
   </tr>
-}
+}  
 </table>
+
 <br><br><br>
-
-
-
-<form asp-action="UpdateList" asp-controller="Guest"  method="POST"  role="form">
-<br><br><br>
-    
-
      <div class="button" align="center">
-    <button align: "center" type="submit" class="btn btn-primary">Send Invitation Mail</button>
+    <button align: "center" type="submit" class="btn btn-primary">Delete</button>
     </div>
-
-
 </form>
 
 

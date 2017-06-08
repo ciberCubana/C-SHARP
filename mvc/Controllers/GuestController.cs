@@ -21,6 +21,23 @@ namespace mvc.Controllers
         {
             return View();
         }
+
+        public IActionResult UpdateList()
+        {
+            var guest = _context.Guest.ToList();
+            
+            return View(guest);
+        }
+
+        public IActionResult GuestConfirm()
+        {
+            var guest1 = _context.Guest.ToList();
+            var guestConfirmed = from guest in guest1
+                           where guest.status == "Confirmed"
+                           select guest;
+            return View(guestConfirmed);
+        }
+        
         
         public IActionResult GuestList()
         {

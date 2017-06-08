@@ -11,13 +11,15 @@ namespace mvc
     {
         public static void Main(string[] args)
         {
+            
+            File.Delete("/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/guest.db");
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .Build();
-
+            
             host.Run();
         }
     }

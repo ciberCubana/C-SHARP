@@ -5,9 +5,8 @@ namespace mvc.Models
         public int ID { get; set; }
         public string nameGuest{get;set;}
          
-
-        // public int quantity{get;set;}
         public string email {get;set;} 
+        public string status{get;set;}
         public Guest()
         {
             
