@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/MaxArray/bin/Debug/netcoreapp1.1/MaxArray.deps.json
+/Users/npgamboa/Documents/Csharp-class/MaxArray/bin/Debug/netcoreapp1.1/MaxArray.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/MaxArray/bin/Debug/netcoreapp1.1/MaxArray.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/MaxArray/obj/Debug/netcoreapp1.1/MaxArray.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/MaxArray/bin/Debug/netcoreapp1.1/MaxArray.dll
+/Users/npgamboa/Documents/Csharp-class/MaxArray/bin/Debug/netcoreapp1.1/MaxArray.pdb
+/Users/npgamboa/Documents/Csharp-class/MaxArray/obj/Debug/netcoreapp1.1/MaxArray.dll
+/Users/npgamboa/Documents/Csharp-class/MaxArray/obj/Debug/netcoreapp1.1/MaxArray.pdb

@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/Shapes/bin/Debug/netcoreapp1.1/Shapes.deps.json
+/Users/npgamboa/Documents/Csharp-class/Shapes/bin/Debug/netcoreapp1.1/Shapes.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/Shapes/bin/Debug/netcoreapp1.1/Shapes.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/Shapes/obj/Debug/netcoreapp1.1/Shapes.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/Shapes/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/npgamboa/Documents/Csharp-class/Shapes/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/npgamboa/Documents/Csharp-class/Shapes/obj/Debug/netcoreapp1.1/Shapes.dll
+/Users/npgamboa/Documents/Csharp-class/Shapes/obj/Debug/netcoreapp1.1/Shapes.pdb

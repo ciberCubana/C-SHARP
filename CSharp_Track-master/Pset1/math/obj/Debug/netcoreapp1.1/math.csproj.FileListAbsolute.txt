@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/bin/Debug/netcoreapp1.1/math.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/bin/Debug/netcoreapp1.1/math.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/bin/Debug/netcoreapp1.1/math.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/bin/Debug/netcoreapp1.1/math.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/bin/Debug/netcoreapp1.1/math.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/obj/Debug/netcoreapp1.1/math.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/obj/Debug/netcoreapp1.1/math.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/math/obj/Debug/netcoreapp1.1/math.pdb

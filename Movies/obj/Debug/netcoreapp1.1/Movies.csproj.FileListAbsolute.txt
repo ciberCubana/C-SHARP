@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/Movies/bin/Debug/netcoreapp1.1/Movies.deps.json
+/Users/npgamboa/Documents/Csharp-class/Movies/bin/Debug/netcoreapp1.1/Movies.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/Movies/bin/Debug/netcoreapp1.1/Movies.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/Movies/bin/Debug/netcoreapp1.1/Movies.dll
+/Users/npgamboa/Documents/Csharp-class/Movies/bin/Debug/netcoreapp1.1/Movies.pdb
+/Users/npgamboa/Documents/Csharp-class/Movies/obj/Debug/netcoreapp1.1/Movies.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/Movies/obj/Debug/netcoreapp1.1/Movies.dll
+/Users/npgamboa/Documents/Csharp-class/Movies/obj/Debug/netcoreapp1.1/Movies.pdb

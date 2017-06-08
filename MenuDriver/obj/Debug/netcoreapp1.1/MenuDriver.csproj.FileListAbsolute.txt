@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/bin/Debug/netcoreapp1.1/MenuDriver.deps.json
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/bin/Debug/netcoreapp1.1/MenuDriver.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/bin/Debug/netcoreapp1.1/MenuDriver.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/bin/Debug/netcoreapp1.1/MenuDriver.dll
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/bin/Debug/netcoreapp1.1/MenuDriver.pdb
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/obj/Debug/netcoreapp1.1/MenuDriver.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/obj/Debug/netcoreapp1.1/MenuDriver.dll
+/Users/npgamboa/Documents/Csharp-class/MenuDriver/obj/Debug/netcoreapp1.1/MenuDriver.pdb

@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/bin/Debug/netcoreapp1.1/salaries.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/bin/Debug/netcoreapp1.1/salaries.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/bin/Debug/netcoreapp1.1/salaries.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/bin/Debug/netcoreapp1.1/salaries.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/bin/Debug/netcoreapp1.1/salaries.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/obj/Debug/netcoreapp1.1/salaries.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/obj/Debug/netcoreapp1.1/salaries.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/salaries/obj/Debug/netcoreapp1.1/salaries.pdb

@@ -1,0 +1,180 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.navbar {
+    min-height: auto;
+}
+.navbar-inverse {
+    background-color: #0f538e;
+    border-color: #0f538e;
+}
+
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+    color: #fff;
+	font-size: 1em;
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+#ad
+{
+	text-align: center;
+	height: 400px;
+    padding: 10px;
+	color:royalblue;
+	font-size: 3em;
+	font-weight: 300;
+	word-wrap: normal;
+}
+
+.red
+{
+	background-color: #f00;
+}
+
+.section
+{
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 10px;
+	color: #fff;
+	font-size: 1.1em;
+	font-weight: 300;
+	background-color: #53a7ef;
+	letter-spacing: 1px;
+}
+
+.sec-text
+{
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 10px;
+	color: #000;
+	font-size: 1em;
+	background-color: #eee;
+}
+
+h2
+{
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-size: 3em;
+	font-weight: 300;
+}
+.nopad
+{
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.home-head
+{
+	background: #fff;
+	color: seagreen;
+	vertical-align: middle;
+}
+.inner
+{
+	position: absolute;
+	top: 35%; left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+/******************************/
+/*           FORMS            */
+/******************************/
+
+form fieldset label
+{
+    width: 100%;
+}
+.red-border{
+	margin-top: 30px;
+	border: 1px solid #f00;
+}
+
+.blue-border{
+	margin-top: 30px;
+	border: 1px solid #337ab7;
+}
+
+/* Form general style */
+.form-control{
+    /* center form controls */
+    display: inline-block;
+    width: 100%;
+    border-radius: 0px!important;
+}
+
+/* ALign Center Content */
+#form-conteiner{
+    text-align: center;
+}
+
+/* Padding for forms */
+fieldset{
+    padding: 10px;
+}
+
+/* Select Border radius O */
+select {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0px;
+}
+label{
+	font-weight: 600;
+	font-size: 13px;
+}
+.label{
+	display:inline-block;
+}
+.input{
+	display:block;
+	font-weight: 400;
+	color: blue;
+}
+/* Required field red star*/
+.redstar{
+	color: red;
+}
+
+/******************************/
+/*         END  FORMS         */
+/******************************/

@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/mvc.deps.json
+/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/mvc.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/mvc.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/mvc.dll
+/Users/npgamboa/Documents/Csharp-class/mvc/bin/Debug/netcoreapp1.1/mvc.pdb
+/Users/npgamboa/Documents/Csharp-class/mvc/obj/Debug/netcoreapp1.1/mvc.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/mvc/obj/Debug/netcoreapp1.1/mvc.dll
+/Users/npgamboa/Documents/Csharp-class/mvc/obj/Debug/netcoreapp1.1/mvc.pdb

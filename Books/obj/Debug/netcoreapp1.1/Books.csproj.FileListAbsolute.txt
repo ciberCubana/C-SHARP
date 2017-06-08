@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/Books/bin/Debug/netcoreapp1.1/Books.deps.json
+/Users/npgamboa/Documents/Csharp-class/Books/bin/Debug/netcoreapp1.1/Books.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/Books/bin/Debug/netcoreapp1.1/Books.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/Books/obj/Debug/netcoreapp1.1/Books.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/Books/bin/Debug/netcoreapp1.1/Books.dll
+/Users/npgamboa/Documents/Csharp-class/Books/bin/Debug/netcoreapp1.1/Books.pdb
+/Users/npgamboa/Documents/Csharp-class/Books/obj/Debug/netcoreapp1.1/Books.dll
+/Users/npgamboa/Documents/Csharp-class/Books/obj/Debug/netcoreapp1.1/Books.pdb

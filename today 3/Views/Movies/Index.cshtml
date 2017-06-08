@@ -1,0 +1,20 @@
+@model IEnumerable<Guest>
+
+<h1>This is the movie page</h1>
+
+
+@foreach(Guest g in Model) {
+
+<div class="panel panel-primary">
+  <div class="panel-heading">@g.nameGuest</div>
+  <!--<div class="panel-body">
+    Actors
+    <ul>
+        @foreach(Actor actor in m.Cast) {
+            <li>@actor.Name</li>
+        }
+    </ul>
+  </div>-->
+</div>
+
+}

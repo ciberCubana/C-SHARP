@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/bin/Debug/netcoreapp1.1/rectangle_area.deps.json
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/bin/Debug/netcoreapp1.1/rectangle_area.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/bin/Debug/netcoreapp1.1/rectangle_area.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/obj/Debug/netcoreapp1.1/rectangle_area.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/bin/Debug/netcoreapp1.1/rectangle_area.dll
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/bin/Debug/netcoreapp1.1/rectangle_area.pdb
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/obj/Debug/netcoreapp1.1/rectangle_area.dll
+/Users/npgamboa/Documents/Csharp-class/rectangle_area/obj/Debug/netcoreapp1.1/rectangle_area.pdb

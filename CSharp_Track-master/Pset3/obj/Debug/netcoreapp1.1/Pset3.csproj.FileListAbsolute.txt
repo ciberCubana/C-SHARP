@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/bin/Debug/netcoreapp1.1/Pset3.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/bin/Debug/netcoreapp1.1/Pset3.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/bin/Debug/netcoreapp1.1/Pset3.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/bin/Debug/netcoreapp1.1/Pset3.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/bin/Debug/netcoreapp1.1/Pset3.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/obj/Debug/netcoreapp1.1/Pset3.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/obj/Debug/netcoreapp1.1/Pset3.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset3/obj/Debug/netcoreapp1.1/Pset3.pdb

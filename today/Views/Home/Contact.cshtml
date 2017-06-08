@@ -1,0 +1,29 @@
+﻿@model Message
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+@{
+    if(@ViewData["From"].ToString().Equals("")){
+
+
+<form asp-action="Contact">
+    <legend>Say hello!</legend>
+    <div class="form-group">
+
+            <label asp-for="From" class="control-label"></label>
+                <input asp-for="From" class="form-control" />
+            <label asp-for="Body" class="control-label"></label>
+                <input asp-for="Body" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+    }else{
+
+        <h2>Message from: @ViewData["From"] </h2>
+        <blockquote>@ViewData["Body"]</blockquote>
+
+    }
+}

@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/bin/Debug/netcoreapp1.1/multiplication_tables.deps.json
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/bin/Debug/netcoreapp1.1/multiplication_tables.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/bin/Debug/netcoreapp1.1/multiplication_tables.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/obj/Debug/netcoreapp1.1/multiplication_tables.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/bin/Debug/netcoreapp1.1/multiplication_tables.dll
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/bin/Debug/netcoreapp1.1/multiplication_tables.pdb
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/obj/Debug/netcoreapp1.1/multiplication_tables.dll
+/Users/npgamboa/Documents/Csharp-class/multiplication_tables/obj/Debug/netcoreapp1.1/multiplication_tables.pdb

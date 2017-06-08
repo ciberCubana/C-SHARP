@@ -1,0 +1,1 @@
+{"name":"Billy","lastName":"Jones","allAccounts":[{"Number":"20170517222247","Type":"Saving","OwnerName":"Billy","OwnerLastName":"Jones","Rate":1.5,"Funds":1000,"transactions":[{"Date":"2017-05-17","Time":"22:22","Amount":0.0,"Type":"OPEN"},{"Date":"2017-05-17","Time":"22:22","Amount":1000.0,"Type":"IN"}]}]}

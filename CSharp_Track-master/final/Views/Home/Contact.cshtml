@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"].</h2>
+<h3>@ViewData["Message"]</h3>
+
+<address>
+    One Microsoft Way<br />
+    Redmond, WA 98052-6399<br />
+    <abbr title="Phone">P:</abbr>
+    425.555.0100
+</address>
+
+<address>
+    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+</address>
+
+<div class='col-md-6'>
+        <!-- FORM CONTEINER -->
+        <div class="red-border">
+            <!-- DELETE STUDENT FORM -->
+            <div class='table-name' style="margin-top: 0px;">
+                <H3 style="margin-top: 10px;">Delete Student</h3>
+            </div>
+
+            <script>
+                $(function () {
+                    $('#f6').on('submit', function (e) {
+                    e.preventDefault();
+                        $.ajax({
+                            type: 'post',
+                            url: '../submit.php',
+                            data: $('#f6').serialize(),
+                            success: function (data) {
+                                $('#text6').fadeOut('slow', function(){
+                                    $('#text6').fadeIn('slow').html(data);
+                                });
+                            }
+                        });
+                    });
+                });
+            </script>
+
+            <form id='f6'>
+                <fieldset style="vertical-align: top;">
+
+                    <label for="del-us-id" class="mar20r">ID #<span class="redstar">*</span>
+                        <input class="form-control input" size='5' required name="del-us-id" type="text"/>
+                    </label>
+
+                    <label for="del-us-name" class="mar20r">Name<span class="redstar">*</span>
+                        <input class="form-control input" required name="del-us-name" type="text"/>
+                    </label>
+
+                    <label for="del-us-last" class="mar20r">Last Name<span class="redstar">*</span>
+                        <input class="form-control input" required name="del-us-last" type="text"/>
+                    </label>
+
+                    <label for="del-us-email" class="mar20r">Email<span class="redstar">*</span>
+                        <input class="form-control input" required size="30" name="del-us-email" type="text"/>
+                    </label>
+
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="del-us-files" style="top: 0px;" value="notall" checked>
+                            Delete only 1 record for THIS student from table STUDENTS
+                        </label>
+                    </div>
+
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="del-us-files" style="top: 0px;" value="all">
+                            Delete ALL records for THIS student from ALL tables!
+                        </label>
+                    </div>
+
+                    <div class="input block">
+                        <button class="btn btn-primary mar20r inline" style="background-color: red;" type="submit">
+                            DELETE
+                        </button>
+                        <div id='text6' class="date-message inline"></div>
+                    </div>
+                </fieldset>
+            </form>
+	</div> <!-- END OF FORM CONTEINER -->
+	<!-- END OF DELETE STUDENT FORM -->
+</div>
+

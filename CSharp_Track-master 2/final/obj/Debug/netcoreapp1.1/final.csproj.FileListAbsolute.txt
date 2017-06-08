@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/final/bin/Debug/netcoreapp1.1/final.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/final/bin/Debug/netcoreapp1.1/final.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/final/bin/Debug/netcoreapp1.1/final.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/final/bin/Debug/netcoreapp1.1/final.dll
+/Users/Evgeny/Dropbox/CSharp/hw/final/bin/Debug/netcoreapp1.1/final.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/final/obj/Debug/netcoreapp1.1/final.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/final/obj/Debug/netcoreapp1.1/final.dll
+/Users/Evgeny/Dropbox/CSharp/hw/final/obj/Debug/netcoreapp1.1/final.pdb

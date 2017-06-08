@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/BigBank/bin/Debug/netcoreapp1.1/BigBank.deps.json
+/Users/npgamboa/Documents/Csharp-class/BigBank/bin/Debug/netcoreapp1.1/BigBank.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/BigBank/bin/Debug/netcoreapp1.1/BigBank.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/BigBank/bin/Debug/netcoreapp1.1/BigBank.dll
+/Users/npgamboa/Documents/Csharp-class/BigBank/bin/Debug/netcoreapp1.1/BigBank.pdb
+/Users/npgamboa/Documents/Csharp-class/BigBank/obj/Debug/netcoreapp1.1/BigBank.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/BigBank/obj/Debug/netcoreapp1.1/BigBank.dll
+/Users/npgamboa/Documents/Csharp-class/BigBank/obj/Debug/netcoreapp1.1/BigBank.pdb

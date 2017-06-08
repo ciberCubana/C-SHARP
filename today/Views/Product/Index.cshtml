@@ -1,0 +1,23 @@
+@model Product
+
+<form asp-action="Index" asp-controller="Product">
+    <legend>Form title</legend>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" >
+    </div>
+
+     <div class="form-group">
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" >
+    </div>
+
+     <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" >
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

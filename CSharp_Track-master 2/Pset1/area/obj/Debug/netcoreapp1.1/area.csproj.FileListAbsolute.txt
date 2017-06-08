@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/bin/Debug/netcoreapp1.1/area.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/bin/Debug/netcoreapp1.1/area.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/bin/Debug/netcoreapp1.1/area.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/bin/Debug/netcoreapp1.1/area.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/bin/Debug/netcoreapp1.1/area.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/obj/Debug/netcoreapp1.1/area.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/obj/Debug/netcoreapp1.1/area.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/area/obj/Debug/netcoreapp1.1/area.pdb

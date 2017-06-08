@@ -1,0 +1,8 @@
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/bin/Debug/netcoreapp1.1/FirstCSharpProject.deps.json
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/bin/Debug/netcoreapp1.1/FirstCSharpProject.runtimeconfig.json
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/bin/Debug/netcoreapp1.1/FirstCSharpProject.runtimeconfig.dev.json
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/bin/Debug/netcoreapp1.1/FirstCSharpProject.dll
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/bin/Debug/netcoreapp1.1/FirstCSharpProject.pdb
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/obj/Debug/netcoreapp1.1/FirstCSharpProject.AssemblyInfo.cs
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/obj/Debug/netcoreapp1.1/FirstCSharpProject.dll
+/Users/npgamboa/Documents/Csharp-class/FirstCSharpProject/obj/Debug/netcoreapp1.1/FirstCSharpProject.pdb

@@ -1,0 +1,8 @@
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/bin/Debug/netcoreapp1.1/maximum.deps.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/bin/Debug/netcoreapp1.1/maximum.runtimeconfig.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/bin/Debug/netcoreapp1.1/maximum.runtimeconfig.dev.json
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/bin/Debug/netcoreapp1.1/maximum.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/bin/Debug/netcoreapp1.1/maximum.pdb
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/obj/Debug/netcoreapp1.1/maximum.AssemblyInfo.cs
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/obj/Debug/netcoreapp1.1/maximum.dll
+/Users/Evgeny/Dropbox/CSharp/hw/Pset1/maximum/obj/Debug/netcoreapp1.1/maximum.pdb
