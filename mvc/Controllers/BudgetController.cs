@@ -7,27 +7,29 @@ namespace mvc.Controllers
 {
     public class BudgetController : Controller
     {
-        public IActionResult BudgetList()
+       private readonly GuestContext1 _context;
+
+        public BudgetController(GuestContext1 context)
         {
-            // ViewData["Message"] = "Testing the budget description page.";
-
-            // return View();
-            Budget theCost = new Budget(); // create an instance of budget
-            theCost.itemName= Request.Form["ListItems"].ToString();
-            theCost.itemPrice= Convert.ToDecimal(Request.Form["ListPrice"]);
-            theCost.MaxBudget= Convert.ToDecimal(Request.Form["ListBudget"]);
-
-            List <Budget> cost = new List<Budget> ();
-            cost.Add(new Budget(){itemName=theCost.itemName, itemPrice = theCost.itemPrice});
-            
-
-            // theCost.MaxBudget -= theCost.itemPrice;
-            return View(cost);
+            _context = context;
         }
-
-        public IActionResult Index()  {
-           
+        
+        public IActionResult index (){
             return View();
+        }
+        public IActionResult index2(){
+            
+            Budget b = new Budget(); 
+            b.itemName= Request.Form["ListItems"].ToString();
+            b.itemPrice= Request.Form["ListPrice"].ToString();
+            _context.Budget.Add(b);
+            _context.SaveChanges();
+             var budget = _context.Budget.ToList();
+           
+
+            return View(budget);
+
+            
         }
         
     }
