@@ -17,11 +17,14 @@ namespace mvc.Controllers
         public IActionResult index (){
             return View();
         }
+        
+        
         public IActionResult index2(){
             
             Budget b = new Budget(); 
             b.itemName= Request.Form["ListItems"].ToString();
             b.itemPrice= Request.Form["ListPrice"].ToString();
+
             _context.Budget.Add(b);
             _context.SaveChanges();
              var budget = _context.Budget.ToList();
