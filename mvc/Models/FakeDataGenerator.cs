@@ -19,7 +19,7 @@ namespace mvc.Models
                   .RuleFor(g => g.email, f => f.Internet.Email())
                   .RuleFor(g => g.status, f => f.PickRandom(my_status))
 
-                  .Generate(50);
+                  .Generate(200);
 
                   
         }

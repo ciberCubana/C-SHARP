@@ -1,4 +1,3 @@
-
 @{
     ViewData["Title"] = "Party";
 }
@@ -107,10 +106,8 @@
 <br><br><br>
 
 <div>
-<label>COUNTDOWN</label> <br>
 
 
-<p id="demo"></p>
 
 <script>
 var date = "@Model.date"
@@ -131,10 +128,13 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+<div align="center">
+<h1 >Congratulations @Model.name!!!</h1><br>
+<h1>Ready for planning your @Model.kind </h1><br>
 
-<label>Party Name: @Model.name   </label><br>
-<label>Invitation Message: @Model.message </label><br>
-<label>Kind Party: @Model.kind </label><br>
-<label>Date: @Model.date </label><br>
-<label>Venue: @Model.venue </label><br>
+<h2>Coming soon in </h2><h1 id="demo"></h1><br>
+
+<h3>Date: @Model.date </h3><br>
+<h3>Venue: @Model.venue </h3><br>
+</div>
 </div>

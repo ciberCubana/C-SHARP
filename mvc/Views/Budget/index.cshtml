@@ -1,6 +1,5 @@
-@{
-    ViewData["Title"] = "Budget";
-}
+@model IEnumerable<Budget>
+
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
@@ -108,31 +107,40 @@
 
 
 
-
 <form asp-action="index2" asp-controller="Budget"    method="POST" role="form">
-    <legend><strong>Budget Tracker, helps you keep your event financially balance</strong></legend>
-    <div class="row">
-        <div class="col-md-6">
-
+     <legend><strong>Budget Tracker, helps you keep your event financially balance</strong></legend>
+    
+       
+     
+    
+  <div class="col-md-6" >
         
-    <br>
-      <legend> Please enter your budget amount.</legend>
+        <label for="name">Item Name:</label>
+        <input type="text" id="name" name = "ListItems" required/><br><br>
     
-        <label for="name">Budget Amount:</label>
-        <input type="text" id="name" name = "ListBudget"/>
-    
-    <br><br>
-    
-     </div></div>
+        
+        <label for="name">Item Cost/Expense:</label>
+        <input type="number"  min = "0" id="name" name = "ListPrice" required/>
 
-  <br><br>
+         <br><br>
     <div class="button" align="center">
-        <button type="submit" class="btn btn-primary" >Save</button><br><br>
-        <!--Javascript para mostrar alerta de q se anadio bien-->
+        <button type="submit" class="btn btn-primary" >Add Item</button><br><br>
+        
     </div>
    
-   
-     
+        </div>
+    
+    <div class="col-md-6" >
+        <label for="name">Budget Details:</label>
+<table border style="width:50%">
+<tr>
+    <th>Item Name</th>
+    <th>Item Price</th> 
+    <th>Balance</th>
+  </tr>
+
+</table>
+    </div>
 </form>
 
     

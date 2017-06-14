@@ -109,29 +109,18 @@
 
 <form asp-action="index2" asp-controller="Budget"    method="POST" role="form">
      <legend><strong>Budget Tracker, helps you keep your event financially balance</strong></legend>
-    <div class="row">
-        <div class="col-md-6">
-
-        
-    <br>
-      <legend> Please enter your budget amount.</legend>
     
-        <label for="name">Budget Amount:</label>
-        <input type="text" id="name" name = "ListBudget"/>
-    
-    <br><br>
-    
-     </div></div>
-     <legend><strong>Budget Tracker, helps you keep your event financially balance</strong></legend>
+       
+     
     
   <div class="col-md-6" >
         
         <label for="name">Item Name:</label>
-        <input type="text" id="name" name = "ListItems"/><br><br>
+        <input type="text" id="name" name = "ListItems" required/><br><br>
     
         
         <label for="name">Item Cost/Expense:</label>
-        <input type="text" id="name" name = "ListPrice"/>
+        <input type="text" id="name" name = "ListPrice" required/>
 
          <br><br>
     <div class="button" align="center">
@@ -154,6 +143,7 @@
   <tr>
     <td>@b.itemName</td>
     <td>@b.itemPrice</td> 
+    <td>@b.totalBalance</td>
    
     
   </tr>

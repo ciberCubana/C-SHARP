@@ -111,12 +111,12 @@
    
     <div class="col-md-4" >
         <label for="name">Party Name:</label>
-        <input type="text" id="name" name = "name"/>
+        <input type="text" id="name" name = "name" required/>
    
     <br><br><br>
    
         <label for="motivo" >Kind of party:</label>
-        <select name = "kind">
+        <select name = "kind" required>
             <option value="-">-----</option>
             <option value="Wedding party">Wedding party</option>
             <option value="Birthday party">Birthday party</option>
@@ -128,18 +128,19 @@
 
  <div class="col-md-4">
         <label for="venue">Party Venue:</label>
-        <input type="text" id="venue" name = "venue"/>
+        <input type="text" id="venue" name = "venue" required/>
    
     <br><br><br>
     
     <label for="date">Choose your preferred party date:</label> <br>
-    <input type="datetime-local" name="date">
+    <input type="datetime-local" name="date" required><br>
+    
      </div>
   
   
     <div class="col-md-4" >
         <label for="msg">Invitation Message: </label> <br>
-        <textarea id="msg" name = "msg"> </textarea>
+        <textarea id="msg" name = "msg" required></textarea>
     </div>
      <br><br><br>
       <br><br><br>

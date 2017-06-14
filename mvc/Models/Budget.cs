@@ -5,9 +5,9 @@ namespace mvc.Models
        public int ID{get;set;}
         public string itemName { get; set; }
         // public string ListItems { get; set; } No longer using this.
-        public string itemPrice { get; set; }
-        // public decimal ListPrice { get; set; }
+        public decimal itemPrice { get; set; }
+       
 
-        public string totalBalance { get; set;}
+         public decimal totalBalance { get; set;}
     }
 }

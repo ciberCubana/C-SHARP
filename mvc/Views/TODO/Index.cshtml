@@ -104,27 +104,25 @@
 
 
 <br><br><br>
-
+<p><strong> Create a todo list to keep you on target. Provide a task and a description.</strong> </p><br>
 
 <form asp-action="TODO" asp-controller="TODO"     method="POST">
-    <div align="center">
+    <div>
         <label for="name">Task Name:</label>
-        <input type="text" id="name" name = "taskname"/>
+        <input type="text" id="name" name = "taskname" />
     </div>
-    <br><br><br>
-   
-<br><br><br>
- <div align="center">
+    <br><br>
+ <div>
         <label for="description">Description:</label>
         <input type="text" id="description" name = "description"/>
     </div>
-    <br><br><br>
-    <div align="center">
+    <br><br>
+    <div>
     <label for="date">Due on:</label> <br>
-    <input type="datetime" name="duetask">
+    <input type="date" name="duetask" >
     
   </div>
-  <br><br><br>
+  <br><br>
   
     </div>
     <br><br><br>
